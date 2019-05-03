@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>Changed</key>
+				<false/>
+				<key>ColourStyles</key>
+				<dict>
+					<key>Alpha</key>
+					<dict/>
+					<key>Bravo</key>
+					<dict/>
+					<key>Cameo</key>
+					<dict/>
+					<key>Notes</key>
+					<dict/>
+					<key>Patchy</key>
+					<dict/>
+					<key>Veerle</key>
+					<dict/>
+				</dict>
+				<key>CreditRapidWeaver</key>
+				<false/>
+				<key>CustomCopyrightUsed</key>
+				<false/>
+				<key>CustomSiteTitleUsed</key>
+				<false/>
+				<key>CustomSloganUsed</key>
+				<false/>
+				<key>DefaultLinkTarget</key>
+				<string>self</string>
+				<key>FilenameExtension</key>
+				<string>html</string>
+				<key>FolderName</key>
+				<string>styled</string>
+				<key>HasCustomThemeStyle</key>
+				<false/>
+				<key>ImageFormat</key>
+				<string>Original</string>
+				<key>ImageQuality</key>
+				<string>High</string>
+				<key>IndexFilename</key>
+				<string>index.html</string>
+				<key>OutputFormat</key>
+				<string>Tidied</string>
+				<key>OutputXMLDeclaration</key>
+				<true/>
+				<key>SidebarEnabled</key>
+				<integer>0</integer>
+				<key>SidebarPlain</key>
+				<string>&lt;ul&gt;
+&lt;li&gt;An item&lt;/li&gt;
+&lt;li&gt;Another item&lt;/li&gt;
+&lt;/ul&gt;</string>
+				<key>SidebarTitle</key>
+				<string>SB Test 2</string>
+				<key>TextEncoding</key>
+				<string>utf-8</string>
+				<key>ThemeStyles</key>
+				<dict>
+					<key>Simple Business</key>
+					<array>
+						<string>Sidebar.Right</string>
+					</array>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array>
+				<string>Sidebar.as</string>
+			</array>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page Attributes</string>
+</dict>
+</plist>

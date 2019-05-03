@@ -1,0 +1,43 @@
+
+.app_infoblock {
+	height: 130px;
+	position:relative;
+}
+
+.app_infoblock #icon {
+	float: left;
+	border: none;
+	height: 123px;
+	width: 123px; 
+}
+
+.app_infoblock #name {		
+	font-size: medium;
+	font-weight: bold;
+}
+
+.app_infoblock #infotext {
+	margin-left: 140px;
+}
+
+.app_infoblock #screenshot {
+	left: 56%;
+	top: 0px;
+	position: absolute;
+	height: 461px;
+	width: 319px;
+}
+
+.app_desc {
+	width: 52%;
+}
+
+.app_desc #subhead {
+	font-size: medium;
+	font-weight: bold;
+}
+
+.app_featureslist {
+	width: 52%;
+	min-height: 250px;
+}

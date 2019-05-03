@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>kLinkSourceGUID</key>
+		<string>30781934-B4A4-4D61-89DC-EE7A558F72EA</string>
+		<key>kLinkTargetGUID</key>
+		<string>03D7FA52-3569-434A-BAF2-858B70E3FE88</string>
+		<key>kLinkType</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>kLinkSourceGUID</key>
+		<string>30781934-B4A4-4D61-89DC-EE7A558F72EA</string>
+		<key>kLinkTargetGUID</key>
+		<string>D6137820-2A3F-403A-B704-A2F66E5D6A3B</string>
+		<key>kLinkType</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>kLinkSourceGUID</key>
+		<string>30781934-B4A4-4D61-89DC-EE7A558F72EA</string>
+		<key>kLinkTargetGUID</key>
+		<string>03D7FA52-3569-434A-BAF2-858B70E3FE88</string>
+		<key>kLinkType</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>kLinkSourceGUID</key>
+		<string>30781934-B4A4-4D61-89DC-EE7A558F72EA</string>
+		<key>kLinkTargetGUID</key>
+		<string>D6137820-2A3F-403A-B704-A2F66E5D6A3B</string>
+		<key>kLinkType</key>
+		<integer>8</integer>
+	</dict>
+</array>
+</plist>

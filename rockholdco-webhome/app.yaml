@@ -1,0 +1,24 @@
+application: rockholdco-webhome
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+
+- url: .*
+  script: main.py
+
+- url: /files
+  static_dir: files
+  
+- url: /aktuala_loko
+  static_dir: aktuala_loko
+  
+- url: /regex_live
+  static_dir: regex_live
+  
+- url: /transitscope
+  static_dir: transitscope
